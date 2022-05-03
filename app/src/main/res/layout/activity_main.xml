@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5c8b93"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/btnCube"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:text="Cube"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:backgroundTint="#243d5c"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnCylinder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#243d5c"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:text="Cylinder"
+        app:layout_constraintEnd_toEndOf="@+id/btnCube"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="@+id/btnCube"
+        app:layout_constraintTop_toBottomOf="@+id/btnCube" />
+
+    <Button
+        android:id="@+id/btnCone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#243d5c"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:text="Cone"
+        app:layout_constraintEnd_toEndOf="@+id/btnCylinder"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="@+id/btnCylinder"
+        app:layout_constraintTop_toBottomOf="@+id/btnCylinder" />
+
+    <Button
+        android:id="@+id/btnSphere"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#243d5c"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:text="Sphere"
+        app:layout_constraintEnd_toEndOf="@+id/btnCone"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btnCone"
+        app:layout_constraintTop_toBottomOf="@+id/btnCone" />
+
+    <Button
+        android:id="@+id/btnSquare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:backgroundTint="#243d5c"
+        android:text="Octahedron"
+        app:layout_constraintEnd_toEndOf="@+id/btnSphere"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="@+id/btnSphere"
+        app:layout_constraintTop_toBottomOf="@+id/btnSphere" />
+</androidx.constraintlayout.widget.ConstraintLayout>

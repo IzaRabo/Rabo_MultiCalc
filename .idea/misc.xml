@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cone.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cone_area.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cone_volume.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cube.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cube_area.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cube_volume.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cylinder.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cylinder_area.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_cylinder_volume.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_octahedron.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_octahedron_area.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_octahedron_volume.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_sphere.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_sphere_area.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_sphere_volume.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_square.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_square_area.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/Rabo_MultiCalc/app/src/main/res/layout/activity_square_volume.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
